@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 1 started">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/TaskTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theory/theory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task7.java" afterDir="false" />
-    </list>
+    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 1 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665085784743</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab 1 finished">
+      <created>1666827597446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666827597446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 1 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 finished" />
   </component>
 </project>
