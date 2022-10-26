@@ -1,14 +1,17 @@
 package lab1;
 
-import java.util.Scanner;
-
 public class task3 {
-    public static void main(String args[]){
+    public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in); //Создание объекта sc класса Scanner, указав, с каким потоком ввода он будет связан
-        System.out.print("Введите целое число: ");
-        int size = sc.nextInt(); //Считывание с потока ввода
-        System.out.println("Вы ввели: " + size);
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+        int sum = 0;
+        System.out.print("Your array: ");
+        for (int i = 0; i < array.length; i++){
+            System.out.print(array[i]+" ");
+            sum+=array[i];
+        }
+        System.out.print("\nSum of elements: " + sum
+                + "\nArifmetic mean: " + (float)sum/array.length);
 
     }
 }
