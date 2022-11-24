@@ -7,7 +7,7 @@ public class task6 {
         System.out.print("Enter number count: ");
         Scanner sc = new Scanner(System.in);
         int count = sc.nextInt();
-        System.out.println("First " + count + " harmonic number:");
+        System.out.println("First " + count + " harmonic numbers:");
         for(int i = 1; i <= count; i++)
             System.out.printf(i + " number: %.3f\n", (float)1/i);
     }
