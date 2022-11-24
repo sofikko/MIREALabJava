@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 1 finished">
-      <change afterPath="$PROJECT_DIR$/src/TasksTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Author/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Author/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Ball/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Ball/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Book/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Book/bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Circle/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Circle/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Pound/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Pound/Pound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Shop/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Shop/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Shop/TestShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/TaskTester2.java" afterDir="false" />
+    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 2 finished">
+      <change afterPath="$PROJECT_DIR$/src/lab2/HowMany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/TaskTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/TaskTester1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab1/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab1/task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/TaskTester2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/TaskTester2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666827842271</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab 2 finished">
+      <created>1669296485027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669296485027</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 1 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 finished" />
+    <MESSAGE value="Lab 2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 finished" />
   </component>
 </project>

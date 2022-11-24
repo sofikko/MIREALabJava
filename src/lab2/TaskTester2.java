@@ -53,7 +53,7 @@ public class TaskTester2 {
                     break;
                 case 9:
                     System.out.print("\nThe Poker class has been created, test the class.\n");
-                    Switch.main(args);
+                    Poker.main(args);
                     break;
                 default:
                     System.out.print("There is no such task.");
