@@ -1,5 +1,6 @@
 import lab1.TaskTester1;
 import lab2.TaskTester2;
+import lab3.TaskTester3;
 
 import java.util.Scanner;
 
@@ -18,6 +19,10 @@ public class TasksTester {
                 case 2:
                     System.out.println("You are in lab 2.");
                     TaskTester2.main(args);
+                    break;
+                case 3:
+                    System.out.println("You are in lab 3.");
+                    TaskTester3.main(args);
                     break;
                 case 0:
                     break;

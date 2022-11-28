@@ -4,7 +4,7 @@ public class Circle {
     private Point point;
     private double radius;
 
-    Circle(double x, double y, double radius){
+    public Circle(double x, double y, double radius){
         point = new Point(x,y);
         this.radius = radius;
     }
@@ -20,4 +20,7 @@ public class Circle {
     public String toString(){return "Circle {x = " + point.getX() +
             "; y = " + point.getY() + "; radius = " + radius + "}";}
 
+    public double compare(Circle temp){
+        return radius-temp.radius;
+    }
 }

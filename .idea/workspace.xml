@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 2 finished">
-      <change afterPath="$PROJECT_DIR$/src/lab2/HowMany.java" afterDir="false" />
+    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 2 has been fixed">
+      <change afterPath="$PROJECT_DIR$/src/lab3/TaskTester3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/TaskTester2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/TaskTester2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TasksTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TasksTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/Circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/Circle/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="lab2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.task7">
     <configuration name="TestShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.Shop.TestShop" />
       <module name="MIREALabJava" />
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669296485027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab 2 has been fixed">
+      <created>1669298839509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669298839509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 1 finished" />
     <MESSAGE value="Lab 2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 finished" />
+    <MESSAGE value="Lab 2 has been fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 2 has been fixed" />
   </component>
 </project>
