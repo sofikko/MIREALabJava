@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 5 finished">
-      <change afterPath="$PROJECT_DIR$/src/lab_26/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_26/hashtab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="43a2cb0a-74d8-431c-83ed-cf574f8c2b23" name="Changes" comment="Lab 26 finished">
+      <change afterPath="$PROJECT_DIR$/src/lab_28/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671711795360</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab 26 finished">
+      <created>1671717097543</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671717097543</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +180,7 @@
     <MESSAGE value="Labs all finished" />
     <MESSAGE value="Lab 4 finished" />
     <MESSAGE value="Lab 5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 finished" />
+    <MESSAGE value="Lab 26 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 26 finished" />
   </component>
 </project>
