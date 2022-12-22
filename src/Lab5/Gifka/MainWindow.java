@@ -35,7 +35,7 @@ public class MainWindow extends JFrame {
         return s;
     }
 
-    public void update(int ms) throws InterruptedException {
+    public void update(long ms) throws InterruptedException {
         TimeUnit.MILLISECONDS.sleep(ms);
         painter.repaint();
     }
